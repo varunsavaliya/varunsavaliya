@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varun Savaliya</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on [Learning Management System](https://github.com/varunsavaliya/LMS)
+- 🔭 I’m currently working on [Learning Management System](https://github.com/varunsavaliya/LMS-Backend.git)
 
 - 🌱 I’m currently learning **MERN stack web development**
 
