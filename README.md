@@ -1,22 +1,53 @@
-<h1 align="center">Hi 👋, I'm Varun Savaliya</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h1 align="center">Hey there 👋, I'm Varun Savaliya</h1>
 
-- 🔭 I’m currently working on [Learning Management System](https://lms-frontend-eight-gules.vercel.app)
+###
 
-- 🌱 I’m currently learning **MERN stack web development**
+<p align="center">A passionate full stack developer from India</p>
 
-- 💬 Ask me about **react, angular, express, .net**
+###
 
-- 📫 Reach me at **varunsavaliya000@gmail.com**
+<h3 align="left">👩‍💻  About Me</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/varunsavaliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varunsavaliya" height="30" width="40" /></a>
-<a href="https://instagram.com/v.n.savaliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="v.n.savaliya" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/varun_savaliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="varun_savaliya" height="30" width="40" /></a>
-</p>
+###
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunsavaliya&show_icons=true&locale=en&layout=compact" alt="varunsavaliya" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varunsavaliya&" alt="varunsavaliya" />
-</p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/varunsavaliya" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<p align="left">🌱 Enthusiastic Web Developer diving into React, Angular, Express, and ASP.NET<br>💬 Always up for a conversation about web development and innovation<br>📫 Contact me at varunsavaliya000@gmail.com</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=varunsavaliya&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="189" alt="streak graph"  />
+</div>
+
+###
