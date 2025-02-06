@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">🌱 Enthusiastic Web Developer diving into React, Angular, Express, and ASP.NET<br>💻 Currently working on a SAAS tool(Own Project)<br>💬 Always up for a conversation about web development and innovation<br>📫 Contact me at varunsavaliya000@gmail.com</p>
+<p align="left">🌱 Enthusiastic Web Developer diving into React, Angular, Express, and ASP.NET<br>💻 Currently working on a SAAS tool<br>💬 Always up for a conversation about web development and innovation<br>📫 Contact me at varunsavaliya000@gmail.com</p>
 
 ###
 
