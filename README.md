@@ -41,13 +41,3 @@
 </div>
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="left">
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=varunsavaliya&theme=dark&hide_border=true)<br/>
-</div>
-
-###
