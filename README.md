@@ -47,7 +47,7 @@
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=varunsavaliya&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="189" alt="streak graph"  />
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=varunsavaliya&theme=dark&hide_border=true)<br/>
 </div>
 
 ###
